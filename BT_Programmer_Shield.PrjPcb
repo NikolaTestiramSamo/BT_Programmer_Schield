@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for BT_Programmer_Shield
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -176,7 +176,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for BT_Programmer_Shield
 
 [OutputGroup1]
 Name=Netlist Outputs
